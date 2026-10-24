@@ -183,6 +183,7 @@ The main benefit is flexibility: I can introduce another operation by implementi
 
 ## 5. GitHub Repository
 
-**Repository link:** [Paste your GitHub repository URL here after publishing]
+
+**Repository link:** https://github.com/edigeevaskar94-cpu/StrategyPatternAssignment5
 
 **Project files:** `OperationStrategy.java`, `AddStrategy.java`, `SubtractStrategy.java`, `MultiplyStrategy.java`, `Calculator.java`, `Main.java`, `README.md`, and this report.
